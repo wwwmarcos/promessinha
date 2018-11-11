@@ -1,5 +1,5 @@
 {
-  "name": "promise.all",
+  "name": "promessinha",
   "version": "1.0.0",
   "description": " Resolves an array of promises in parallel and return an object with an array of 'successes' and an array of 'errors'.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eptaccio/promise.all.git"
+    "url": "git+https://github.com/eptaccio/promessinha.git"
   },
   "keywords": [
     "promise",
@@ -21,7 +21,7 @@
   "author": "@eptaccio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eptaccio/promise.all/issues"
+    "url": "https://github.com/eptaccio/promessinha/issues"
   },
-  "homepage": "https://github.com/eptaccio/promise.all#readme"
+  "homepage": "https://github.com/eptaccio/promessinha#readme"
 }

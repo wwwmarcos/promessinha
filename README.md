@@ -1,4 +1,4 @@
-# promise.all
+# promessinha
 Resolves an array of promises in parallel and return an object with an array of 'successes' and an array of 'errors'.
 
 # Install
@@ -6,7 +6,7 @@ Resolves an array of promises in parallel and return an object with an array of 
 
 # Usage example
 ```js
-const promiseAll = require('promise.all')
+const promiseAll = require('promessinha')
 
 const myPromises = anyList.map(id => httpRequest(id))
 
