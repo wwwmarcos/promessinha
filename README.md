@@ -2,7 +2,7 @@
 Resolves an array of promises in parallel and return an object with an array of 'successes' and an array of 'errors'.
 
 # Install
-`npm i all-promises-resolver --save` or `yarn add all-promises-resolver`
+`npm i promessinha --save` or `yarn add promessinha`
 
 # Usage example
 ```js
