@@ -15,8 +15,8 @@ const result = await promiseAll(myPromises)
 console.log(result)
 /**
    {
-     successes: [{ successReponse }, { successReponse }],
-     errors: [{ errorReponse }]
+     successes: [{ successResponse }, { successResponse }],
+     errors: [{ errorResponse }]
    }
 */
 
